@@ -1,5 +1,4 @@
-
-![banner w pic](https://user-images.githubusercontent.com/79574031/125189035-97556700-e236-11eb-9057-c8abc3f09942.png)
+![banner w pic](https://user-images.githubusercontent.com/79574031/125189092-cbc92300-e236-11eb-8cd9-d67f1968a08a.png)
 
 ### Hi there 👋, my name is Lerato Mokgwabona. 
 
